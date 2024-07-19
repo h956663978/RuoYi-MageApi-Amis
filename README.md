@@ -1,11 +1,20 @@
 ## 平台简介
 若依是一套全部开源的快速开发平台，毫无保留给个人及企业免费使用
-此项目根据若依魔改，增加业务模块，支持mybaties-plus，同时修改接口返回值，支持yapi接口一键导出，方便后端生成接口
+
+此项目根据若依魔改,可用于在线开发，适用于建站或快速迭代开发，可以使用诺依原生开发模式，增加了mybaties-plus，改写了接口返回参数，可直接使用idea esayyapi一键导出接口
+
+增加业务模块，支持mybaties-plus，同时修改接口返回值，支持yapi接口一键导出，方便后端生成接口
+
 支持若依自带功能开发：https://ruoyi.vip/
+
 支持magic-api在线接口开发：https://www.ssssssss.org/magic-api/
+
 支持amis在线页面开发 ：https://aisuda.bce.baidu.com/amis/zh-CN/docs/index
+
 提供dockerfile脚本一键部署 
+
 类似低代码平台
+
 便于后端人员一键建站
 
 ## 喜欢欢迎给个star
